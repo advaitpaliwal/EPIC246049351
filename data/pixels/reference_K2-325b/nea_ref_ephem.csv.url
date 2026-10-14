@@ -1,0 +1,1 @@
+https://exoplanetarchive.ipac.caltech.edu/TAP/sync?format=csv&query=select%20pl_name%2Cpl_orbper%2Cpl_tranmid%2Cpl_trandur%2Cpl_trandep%2Cpl_rade%2Csy_kepmag%2Cpl_refname%2Cdefault_flag%20from%20ps%20where%20hostname%20in%20%28%27K2-325%27%2C%27K2-414%27%29%20

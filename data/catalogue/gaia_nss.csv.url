@@ -1,0 +1,1 @@
+https://gea.esac.esa.int/tap-server/tap/sync?REQUEST=doQuery&LANG=ADQL&FORMAT=csv&QUERY=SELECT%20%2A%20FROM%20gaiadr3.nss_two_body_orbit%20WHERE%20source_id%3D2438563103592977408

@@ -1,0 +1,2 @@
+!! Identifier not found in the database : 2MASS J23255947-0816135
+ query string: 2MASS J23255947-0816135

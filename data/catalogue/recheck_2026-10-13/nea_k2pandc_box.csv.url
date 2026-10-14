@@ -1,0 +1,2 @@
+https://exoplanetarchive.ipac.caltech.edu/TAP/sync?format=csv&query=select%20pl_name%2Cepic_hostname%2Cepic_candname%2Cra%2Cdec%2Cpl_orbper%2Cdisposition%2Cdisp_refname%20from%20k2pandc%20where%20ra%20between%20351.46409485251337%20and%20351.53146213075064%20and%20dec%20between%20-8.303778490648282%20and%20-8.237111823981616
+fetched 2026-10-14T02:43:17.225710+00:00

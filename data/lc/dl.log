@@ -1,0 +1,26 @@
+SearchResult containing 5 data products.
+
+ #     mission     year  author exptime  target_name  distance
+                                   s                   arcsec 
+--- -------------- ---- ------- ------- ------------- --------
+  0 K2 Campaign 12 2016      K2    1800 ktwo246049351      0.0
+  1 K2 Campaign 19 2018      K2    1800 ktwo246049351      0.0
+  2 K2 Campaign 12 2016 EVEREST    1800 ktwo246049351      0.0
+  3 K2 Campaign 12 2016   K2SFF    1800 ktwo246049351      0.0
+  4 K2 Campaign 19 2018   K2SFF    1800 ktwo246049351      0.0
+SearchResult containing 2 data products.
+
+ #     mission     year author exptime  target_name  distance
+                                  s                   arcsec 
+--- -------------- ---- ------ ------- ------------- --------
+  0 K2 Campaign 12 2016     K2    1800 ktwo246049351      0.0
+  1 K2 Campaign 19 2018     K2    1800 ktwo246049351      0.0
+tpf k2-deep/246049351/lc/mastDownload/K2/ktwo246049351-c12_lc/ktwo246049351-c12_lpd-targ.fits.gz
+Warning: 58% (754/1291) of the cadences will be ignored due to the quality mask (quality_bitmask=1130799).
+tpf k2-deep/246049351/lc/mastDownload/K2/ktwo246049351-c19_lc/ktwo246049351-c19_lpd-targ.fits.gz
+lc k2 k2-deep/246049351/lc/mastDownload/K2/ktwo246049351-c12_lc/ktwo246049351-c12_llc.fits
+Warning: 35% (258/740) of the cadences will be ignored due to the quality mask (quality_bitmask=1130799).
+lc k2 k2-deep/246049351/lc/mastDownload/K2/ktwo246049351-c19_lc/ktwo246049351-c19_llc.fits
+lc everest k2-deep/246049351/lc/mastDownload/HLSP/hlsp_everest_k2_llc_246049351-c12_kepler_v2.0_lc/hlsp_everest_k2_llc_246049351-c12_kepler_v2.0_lc.fits
+lc k2sff k2-deep/246049351/lc/mastDownload/HLSP/hlsp_k2sff_k2_lightcurve_246049351-c12_kepler_v1_llc/hlsp_k2sff_k2_lightcurve_246049351-c12_kepler_v1_llc.fits
+lc k2sff k2-deep/246049351/lc/mastDownload/HLSP/hlsp_k2sff_k2_lightcurve_246049351-c19_kepler_v1_llc/hlsp_k2sff_k2_lightcurve_246049351-c19_kepler_v1_llc.fits

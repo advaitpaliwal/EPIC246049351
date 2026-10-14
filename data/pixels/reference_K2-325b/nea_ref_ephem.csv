@@ -1,0 +1,4 @@
+pl_name,pl_orbper,pl_tranmid,pl_trandur,pl_trandep,pl_rade,sy_kepmag,pl_refname,default_flag
+"K2-325 b",6.93000000000,2457743.81800000,,0.67200000,2.20000000,16.278,"<a refstr=CASTRO_GONZ_AACUTE_LEZ_ET_AL__2020 href=https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5416C/abstract target=ref>Castro Gonz&aacute;lez et al. 2020</a>",1
+"K2-414 c",6.66900000000,2457740.25630000,,,1.92870000,13.977,"<a refstr=DEL_SER_ET_AL_2023 href=https://ui.adsabs.harvard.edu/abs/2023MNRAS.518..669D/abstract target=ref>del Ser et al. 2023</a>",1
+"K2-414 b",4.36960000000,2457742.09930000,,,1.21900000,13.977,"<a refstr=DEL_SER_ET_AL_2023 href=https://ui.adsabs.harvard.edu/abs/2023MNRAS.518..669D/abstract target=ref>del Ser et al. 2023</a>",1

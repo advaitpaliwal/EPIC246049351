@@ -1,0 +1,43 @@
+EVEREST prior P_d 4.3334 (+0.000262/-0.000271)
+EVEREST prior T0_BKJD 2941.4 (+0.00142/-0.00145)
+EVEREST prior RpRs 0.047073 (+0.00223/-0.00218)
+EVEREST prior b 0.27744 (+0.162/-0.182)
+EVEREST prior a_Rs 21.196 (+0.261/-0.261)
+EVEREST prior inc_deg 89.25 (+0.493/-0.439)
+EVEREST prior rho_sun 6.803 (+0.255/-0.248)
+EVEREST prior depth_ppm 2609.3 (+189/-176)
+EVEREST prior T14_h 1.5751 (+0.0504/-0.0872)
+EVEREST prior Rp_earth 1.9369 (+0.111/-0.107)
+EVEREST prior Teq_K 544.39 (+24.1/-24.3)
+EVEREST prior S_earth 14.635 (+2.77/-2.44)
+EVEREST prior jitter_ppm 853.25 (+33/-30.4)
+EVEREST prior q1 0.3457 (+0.379/-0.248)
+EVEREST prior q2 0.34417 (+0.366/-0.245)
+T0 BJD_TDB 2457774.42606
+a AU 0.0372
+tau max 195, post-burn steps 26666 -> 137 tau, acc 0.351, npts 380
+free depth 2633.1 (+177/-176) Rp 1.9717 (+0.122/-0.122) b 0.30167 (+0.279/-0.21) rho 6.7667 (+2.36/-2.62) jitter 854
+  depth - EVEREST = 24 ppm, 0.09 sigma
+k2sff depth 2670.9 (+835/-1.05e+03) Rp 2.0352 (+0.445/-0.544) b 0.67701 (+0.147/-0.267) rho 6.8138 (+0.26/-0.257) jitter 2868
+  depth - EVEREST = 62 ppm, 0.06 sigma
+fresh depth 3061.1 (+620/-595) Rp 2.1767 (+0.297/-0.3) b 0.64981 (+0.109/-0.199) rho 6.8176 (+0.257/-0.258) jitter 2508
+  depth - EVEREST = 452 ppm, 0.70 sigma
+free rho vs TIC 6.803: diff -0.01 sigma
+FPP gr n=10 mean 0.0098 sd 0.0019 min 0.0069 max 0.0124 NFPP max 0 n_stars 3 depth 2609.3 err 374.7 nbins 58 filt Kepler
+FPP grs n=10 mean 0.0071 sd 0.0013 min 0.0050 max 0.0088 NFPP max 0 n_stars 3 depth 2609.3 err 374.7 nbins 58 filt TESS
+FPP none n=1 mean 0.0505 sd 0.0000 min 0.0505 max 0.0505 NFPP max 0 n_stars 3 depth 2609.3 err 374.7 nbins 58 filt Kepler
+FPP cc n=1 mean 0.0060 sd 0.0000 min 0.0060 max 0.0060 NFPP max 0 n_stars 3 depth 2609.3 err 374.7 nbins 58 filt TESS
+Gaia plx 5.727038642675274 -> 174.6 pc; G 15.963887; BP-RP 2.318654; RUWE 1.0422325
+  Gaia neighbour sep 36.4 G 15.34 plx 2.29
+  Gaia neighbour sep 36.7 G 19.17 plx 1.17
+  Gaia neighbour sep 49.3 G 20.46 plx -0.29
+  Gaia neighbour sep 54.9 G 19.36 plx -0.19
+832 nm contrast at 0.1 arcsec: 4.31 mag
+832 nm contrast at 0.2 arcsec: 4.88 mag
+832 nm contrast at 0.5 arcsec: 5.31 mag
+832 nm contrast at 1.0 arcsec: 5.37 mag
+832 nm contrast at 1.2 arcsec: 5.36 mag
+832 curve range 0.03-1.17 arcsec
+EVEREST span 2905.398-2984.244 (78.8 d), raw n 3334, flat n 3314
+epochs with >=1 cadence within T14/2: [np.int64(-8), np.int64(-7), np.int64(-6), np.int64(-5), np.int64(-4), np.int64(-3), np.int64(-2), np.int64(-1), np.int64(0), np.int64(1), np.int64(2), np.int64(4), np.int64(5), np.int64(6), np.int64(7), np.int64(8), np.int64(9)]
+predicted epochs in span: [-8, -7, -6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]

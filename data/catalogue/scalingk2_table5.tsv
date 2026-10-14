@@ -1,0 +1,67 @@
+#
+#   VizieR Astronomical Server vizier.cds.unistra.fr
+#    Date: 2026-10-13T22:47:39 [V7.6.1]
+#   In case of problem, please report to:	cds-question@unistra.fr
+#
+#
+#Coosys	J2000:	eq_FK5 J2000
+#INFO	service_protocol=ASU	  IVOID of the protocol through which the data was retrieved
+#INFO	request_date=2026-10-13T22:47:40	  Query execution date
+#INFO	request=https://vizier.cds.unistra.fr/viz-bin/asu-tsv?-source=J/AJ/170/183/table5&-c=351.49778%20-8.27045&-c.rs=10&-out.all	  Full request URL
+#INFO	contact=cds-question@unistra.fr	  Email or URL to contact publisher
+#INFO	server_software=VizieR/7.6.1	  Software version
+#INFO	publisher=CDS	  Data centre that produced the VOTable
+#INFO	MaxTuples=50000	
+#INFO	-c=351.497780-08.270450,rs=10.	
+#Constraint -out.all
+
+#RESOURCE=yCat_51700183
+#Name: J/AJ/170/183
+#Title: Scaling K2. VIII. Sub-Neptunes & M dwarfs (Hardegree-Ullman+, 2025)
+#INFO	ivoid=ivo://cds.vizier/j/aj/170/183	    IVOID of underlying data collection
+#INFO	data_ivoid=ivo://cds.vizier/j/aj/170/183	    IVOID of underlying data collection
+#INFO	creator=Hardegree-Ullman K.K.	    First author or institution
+#INFO	cites=bibcode:2025AJ....170..183H	    Article or Data origin sources
+#INFO	journal=AJ	    Journal name
+#INFO	original_date=2025	    Year of the article publication
+#INFO	reference_url=https://cdsarc.cds.unistra.fr/viz-bin/cat/J/AJ/170/183	    Dataset landing page
+#INFO	citation=doi:10.26093/cds/vizier/be-5a-5q	    Dataset identifier that can be used for citation
+#INFO	publication_date=2026-10-11	    Date of first publication in the data centre
+#INFO	rights_uri=https://cds.unistra.fr/vizier-org/licences_vizier.html	    Licence URI
+#Table	J_AJ_170_183_table5:
+#Name: J/AJ/170/183/table5
+#Title: Properties of K2 Stars
+#Column	_r	(F6.3)	Distance from center (351.497780-08.270450)[FK5/J2000]	[ucd=pos.angDistance]
+#Column	recno	(I8)	Record number assigned by the VizieR team. Should Not be used for identification.	[ucd=meta.record]
+#Column	NEA	(A3)	Link to NASA Exoplanet Archive for this star	[ucd=meta.ref.url]
+#Column	EPIC	(I9)	[201048855/251634367] EPIC (IV/34) K2 identifier	[ucd=meta.id;meta.main]
+#Column	Camp	(I2)	[1/18] K2 Campaign (1)	[ucd=meta.id;obs]
+#Column	GaiaDR3	(I19)	Gaia DR3 (I/355) source ID	[ucd=meta.id]
+#Column	2MASS	(A16)	2MASS (II/246) designation (JHHMMSSss+DDMMSSs)	[ucd=meta.id]
+#Column	Comp	(A1)	Binary component, A or B	[ucd=meta.id.part;meta.main]
+#Column	RAJ2000	(F10.6)	Right ascension (J2000)	[ucd=pos.eq.ra;meta.main]
+#Column	e_RAJ2000	(F9.6)	Uncertainty in RAdeg	[ucd=stat.error;pos.eq.ra]
+#Column	DEJ2000	(F10.6)	Declination (J2000)	[ucd=pos.eq.dec;meta.main]
+#Column	e_DEJ2000	(F9.6)	Uncertainty in DEdeg	[ucd=stat.error;pos.eq.dec]
+#Column	Dist	(F12.6)	[20.41/11377] Distance from Bailer-Jones+2021 (I/352)	[ucd=pos.distance]
+#Column	e_Dist	(F11.6)	[0.01/6354] Lower uncertainty on Dist	[ucd=stat.error;stat.min;pos.distance]
+#Column	E_Dist	(F11.6)	[0.01/4058] Upper uncertainty on Dist	[ucd=stat.error;stat.max;pos.distance]
+#Column	Teff	(I4)	[2992/7299] Surface effective temperature	[ucd=phys.temperature.effective]
+#Column	e_Teff	(I3)	[88/356] Uncertainty in Teff	[ucd=stat.error;phys.temperature.effective]
+#Column	logg	(F6.3)	[3.57/5.44] Log, surface gravity	[ucd=phys.gravity]
+#Column	e_logg	(F6.3)	[0.021/1.02] Uncertainty in logg	[ucd=stat.error;phys.gravity]
+#Column	[Fe/H]	(F6.3)	[-1.99/0.54] Metallicity	[ucd=phys.abund.Fe]
+#Column	e_[Fe/H]	(F6.3)	[0.217] Uncertainty in [Fe/H]	[ucd=stat.error;phys.abund.Fe]
+#Column	Lstar	(F9.6)	[1.27e-3/42.87] Stellar luminosity	[ucd=phys.luminosity]
+#Column	e_Lstar	(F9.6)	[4.6e-5/31.67] Uncertainty in Lstar	[ucd=stat.error;phys.luminosity]
+#Column	Rstar	(F6.3)	[0.13/4.22] Stellar radius	[ucd=phys.size.radius]
+#Column	e_Rstar	(F6.3)	[4e-3/3.86] Uncertainty in Rstar	[ucd=stat.error;phys.size.radius]
+#Column	Mstar	(F6.3)	[0.018/7.39] Stellar mass	[ucd=phys.mass]
+#Column	e_Mstar	(F6.3)	[3e-3/3.41] Uncertainty in Mstar	[ucd=stat.error;phys.mass]
+#Column	Np	(I3)	Number of exoplanets for this star (link to Table 7)	[ucd=meta.number]
+#Column	SimbadName	(a28)	Simbad column added by the CDS	[ucd=meta.id]
+_r	recno	NEA	EPIC	Camp	GaiaDR3	2MASS	Comp	RAJ2000	e_RAJ2000	DEJ2000	e_DEJ2000	Dist	e_Dist	E_Dist	Teff	e_Teff	logg	e_logg	[Fe/H]	e_[Fe/H]	Lstar	e_Lstar	Rstar	e_Rstar	Mstar	e_Mstar	Np	SimbadName
+arcsec	 	 	 	 	 	 	 	deg	mas	deg	mas	pc	pc	pc	K	K	[cm/s]	[cm/s]	[-]	[-]	Lsun	Lsun	Rsun	Rsun	Msun	Msun	 	
+------	--------	---	---------	--	-------------------	----------------	-	----------	---------	----------	---------	------------	-----------	-----------	----	---	------	------	------	------	---------	---------	------	------	------	------	---	----------------------------
+ 0.018	   56127	NEA	246049351	12	2438563103592977408	23255947-0816135	 	351.497780	 0.973256	-08.270445	 0.688813	  173.344467	   1.841080	   1.575440	3508	102	 4.856	 0.033	-0.147	 0.217	 0.018498	 0.000807	 0.378	 0.012	 0.370	 0.012	  0	
+

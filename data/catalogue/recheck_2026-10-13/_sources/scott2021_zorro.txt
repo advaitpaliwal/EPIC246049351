@@ -1,0 +1,8 @@
+Saved from Exa search 2026-10-13 (verbatim excerpts).
+URL: https://www.ipac.caltech.edu/publication/2021FrASS...8..138S
+"Twin High-resolution, High-speed Imagers for the Gemini Telescopes: Instrument description and science verification results"
+"September 2021 • 2021FrASS...8..138S"
+"Authors • Scott, Nicholas J. • Howell, Steve B. • Gnilka, Crystal L. • Stephens, Andrew W. • Salinas, Ricardo • Matson, Rachel A. • Furlan, Elise • Horch, Elliott P. • Everett, Mark E. • Ciardi, David R. • Mills, Dave • Quigley, Emmett A."
+URL: https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2021.716560/pdf
+"Front. Astron. Space Sci. 8:716560. doi: 10.3389/fspas.2021.716560"
+"Speckle imaging enables binary/close companion systems with separations from ∼0.02 to 1.2″ to be imaged"

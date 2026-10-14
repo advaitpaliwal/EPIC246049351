@@ -1,0 +1,112 @@
+[
+ {
+  "i": 0,
+  "mode": "null",
+  "P_inj": NaN,
+  "T0_inj": NaN,
+  "P_rec": 4.596428890762493,
+  "SDE": 7.663227555068509,
+  "snr": 5.5116703791606785,
+  "depth": 0.0009297763026270278,
+  "recovered_period": false
+ },
+ {
+  "i": 1,
+  "mode": "null",
+  "P_inj": NaN,
+  "T0_inj": NaN,
+  "P_rec": 4.596428890762493,
+  "SDE": 7.663227555068509,
+  "snr": 5.5116703791606785,
+  "depth": 0.0009297763026270278,
+  "recovered_period": false
+ },
+ {
+  "i": 2,
+  "mode": "null",
+  "P_inj": NaN,
+  "T0_inj": NaN,
+  "P_rec": 4.596428890762493,
+  "SDE": 7.663227555068509,
+  "snr": 5.5116703791606785,
+  "depth": 0.0009297763026270278,
+  "recovered_period": false
+ },
+ {
+  "i": 3,
+  "mode": "null",
+  "P_inj": NaN,
+  "T0_inj": NaN,
+  "P_rec": 4.596428890762493,
+  "SDE": 7.663227555068509,
+  "snr": 5.5116703791606785,
+  "depth": 0.0009297763026270278,
+  "recovered_period": false
+ },
+ {
+  "i": 4,
+  "mode": "null",
+  "P_inj": NaN,
+  "T0_inj": NaN,
+  "P_rec": 4.596428890762493,
+  "SDE": 7.663227555068509,
+  "snr": 5.5116703791606785,
+  "depth": 0.0009297763026270278,
+  "recovered_period": false
+ },
+ {
+  "i": 5,
+  "mode": "null",
+  "P_inj": NaN,
+  "T0_inj": NaN,
+  "P_rec": 4.596428890762493,
+  "SDE": 7.663227555068509,
+  "snr": 5.5116703791606785,
+  "depth": 0.0009297763026270278,
+  "recovered_period": false
+ },
+ {
+  "i": 6,
+  "mode": "null",
+  "P_inj": NaN,
+  "T0_inj": NaN,
+  "P_rec": 4.596428890762493,
+  "SDE": 7.663227555068509,
+  "snr": 5.5116703791606785,
+  "depth": 0.0009297763026270278,
+  "recovered_period": false
+ },
+ {
+  "i": 7,
+  "mode": "null",
+  "P_inj": NaN,
+  "T0_inj": NaN,
+  "P_rec": 4.596428890762493,
+  "SDE": 7.663227555068509,
+  "snr": 5.5116703791606785,
+  "depth": 0.0009297763026270278,
+  "recovered_period": false
+ },
+ {
+  "i": 8,
+  "mode": "null",
+  "P_inj": NaN,
+  "T0_inj": NaN,
+  "P_rec": 4.596428890762493,
+  "SDE": 7.663227555068509,
+  "snr": 5.5116703791606785,
+  "depth": 0.0009297763026270278,
+  "recovered_period": false
+ },
+ {
+  "i": 9,
+  "mode": "null",
+  "P_inj": NaN,
+  "T0_inj": NaN,
+  "P_rec": 4.596428890762493,
+  "SDE": 7.663227555068509,
+  "snr": 5.5116703791606785,
+  "depth": 0.0009297763026270278,
+  "recovered_period": false
+ }
+]

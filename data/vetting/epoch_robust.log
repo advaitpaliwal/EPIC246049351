@@ -1,0 +1,21 @@
+everest all (2315, 146, 38) drop -3 (2405, 151, 35) drop firing-in-T14 epochs (-8,-3,-2,1,4,6,7,9) (2404, 186, 21)
+k2sff all (2212, 230, 38) drop -3 (2349, 232, 35) drop firing-in-T14 epochs (-8,-3,-2,1,4,6,7,9) (2361, 297, 21)
+fresh all (2586, 209, 38) drop -3 (2576, 209, 35) drop firing-in-T14 epochs (-8,-3,-2,1,4,6,7,9) (2516, 275, 21)
+epoch -8 depth 2757 err 708 resid 0.61 sigma
+epoch -7 depth 2973 err 539 resid 1.21 sigma
+epoch -6 depth 2548 err 594 resid 0.38 sigma
+epoch -5 depth 2560 err 510 resid 0.46 sigma
+epoch -4 depth 2026 err 653 resid -0.45 sigma
+epoch -3 depth 1186 err 585 resid -1.94 sigma
+epoch -2 depth 1837 err 922 resid -0.53 sigma
+epoch -1 depth 2068 err 440 resid -0.58 sigma
+epoch 0 depth 3356 err 644 resid 1.60 sigma
+epoch 1 depth 2998 err 973 resid 0.69 sigma
+epoch 2 depth 1880 err 656 resid -0.68 sigma
+epoch 4 depth 1767 err 722 resid -0.77 sigma
+epoch 5 depth 3005 err 574 resid 1.19 sigma
+epoch 6 depth 2292 err 561 resid -0.06 sigma
+epoch 7 depth 2516 err 498 resid 0.39 sigma
+epoch 8 depth 1760 err 380 resid -1.48 sigma
+epoch 9 depth 2679 err 525 resid 0.68 sigma
+chi2 all 15.11/16; without -3 11.11/15; weighted mean 2323 -> 2390

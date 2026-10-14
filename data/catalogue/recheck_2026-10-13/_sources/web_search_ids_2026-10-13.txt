@@ -1,0 +1,7 @@
+Web searches run 2026-10-13 (local), saved verbatim in summary.
+1) WebSearch: "EPIC 246049351" OR "TIC 49678675" OR "2438563103592977408"
+   Results: arxiv.org/pdf/2210.10805 (TFAW survey II; mentions EPIC 246078343, a different star), arxiv.org/pdf/1802.08865, en.wikipedia.org/wiki/K2-296b, arxiv.org/pdf/2002.01755, arxiv.org/pdf/2608.25387, en.wikipedia.org/wiki/TIC_168789840, and unrelated "Epic" pages.
+   None mention EPIC 246049351, TIC 49678675 or Gaia DR3 2438563103592977408.
+2) Exa: "EPIC 246049351 K2 Campaign 12 planet candidate TIC 49678675"
+   Results: arXiv 2007.12744 (Castro-Gonzalez et al. 2020, cool dwarfs C12-15; highlighted candidate list does not include EPIC 246049351), MAST EPIC search page, K2-285 (EPIC 246471491) papers, EPIC catalogue documentation, EPSC-DPS2019-1847 (EPIC 246239135).
+   None mention EPIC 246049351, TIC 49678675, 2MASS J23255947-0816135 or Gaia DR3 2438563103592977408.

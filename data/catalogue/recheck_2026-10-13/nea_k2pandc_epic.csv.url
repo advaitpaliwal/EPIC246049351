@@ -1,0 +1,2 @@
+https://exoplanetarchive.ipac.caltech.edu/TAP/sync?format=csv&query=select%20pl_name%2Cepic_hostname%2Cepic_candname%2Cpl_orbper%2Cdisposition%2Cdisp_refname%20from%20k2pandc%20where%20epic_hostname%20like%20%27%25246049351%25%27
+fetched 2026-10-14T02:43:20.107819+00:00
